@@ -19,6 +19,7 @@ public class GitErby {
         System.out.println("Hello Git de Erby");
         System.out.println(" God is good ");
         System.out.println(" Inch allah ! ");
+        System.out.println("L'Union fait la force!");
     }
     
 }
